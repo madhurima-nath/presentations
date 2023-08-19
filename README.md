@@ -4,7 +4,7 @@
 
 [NASA PCE3 (Prebiotic Chemistry and Early Earth Environments) Virtual Workshop 2022 Nano- to Cosmic- Studies of Complex Systems](http://prebioticchem.info/workshops/workshop2.html) Network reliability: a generic tool to explore diffusive processes on interacting systems, University of Wisconsin Madison, Madison, WI, Oct. 20, 2022.
 
-[Slides]()
+[Slides](https://github.com/madhurima-nath/presentations/blob/main/invitedtalk/oct20_slides.pdf)
 [YouTube recording](https://www.youtube.com/watch?v=WOJ9B7eVxRU&list=PLvogKQh-bBnWI8ZqlwCKhPp8nCNdGGctN&index=3&t=6150s)
 
 
